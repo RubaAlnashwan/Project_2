@@ -2,7 +2,7 @@
 # Project 02: Web Scraping 
 
 #### Name: Abeer Alruwayti, Ruba Alnashwan
-#### E-mail: Abeeralruwaitea@gmail.com , 
+#### E-mail: Abeeralruwaitea@gmail.com , Ruba.Alnashwan@gmail.com
 
 ## Background
 
