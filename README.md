@@ -4,14 +4,11 @@
 
 #### Name: Abeer Alruwayti, Ruba Alnashwan
 #### E-mail: Abeeralruwaitea@gmail.com , Ruba.Alnashwan@gmail.com
+#### Github : RubaAlnashwan , 
 
 ## Background
 
-
-
-## Objective:
-The goal of this project is to use linear regression to predict house prices.
-
+In this project, we will use data from the (Aqar) website, which provides villas for sale and their prices. Our goal from this project is to build a linear regression model that predict house prices.
 
 
 ## Data Description
@@ -36,10 +33,9 @@ In this project,We used data for villas offered for sale in the city of Riyadh t
 
 
 
-
   ### Scope
   
- The scope of this project was the .
+ The scope of this project was the villas for sale in the areas of Riyadh only, whether old or new villas
  The dataset contains 38,566 rows × 9 columns
  
 
