@@ -19,16 +19,17 @@ In this project,We used data for villas offered for sale in the city of Riyadh t
 
  |Features|Description                                                                          |  Type  |
  |-------|--------------------------------------------------------------------------------------|--------|
- |                                                                                                       |
- | Area |   The area of the villa land in square meters	                                  | Int |
- | Price |  villa price	                                                                      | Int |
- | Direction |  The location of the villa in the city of Riyadh (North, South, West, East, Central)	                                                                                | Int | 
- | Bed |  Number of bedrooms in the villa	                                                                                      | Int |
- | Path |  Number of pathrooms in the villa	                                                                                     | Int |
- | living |  The number of living rooms in the villa	                                                                                   | Int |
- | Street_width |  Width of the street on which the villa is located	                                                                             | Int |
- | House_age |   New or used villa and how many years of use	                                                                                 | Int |
- | views |   The number of users who viewed the ad of the villa	                                                                                   | Int |
+ 
+ | Area |   The area of the villa land in square meters	                                  | object |
+ | Price |  villa price	                                                                      | object |
+ | Direction | The front of the villa, if the villa is east and west, means that it is on two streets 	                                                                                | object | 
+ | bedrooms |  Number of bedrooms in the villa	                                                                                      | Int |
+ | pathrooms |  Number of pathrooms in the villa	                                                                                     | float |
+ | living_rooms |  The number of living rooms in the villa	                                                                                   | object |
+ | streetwidth |  Width of the street on which the villa is located	                                                                             | Int |
+ | oldness |   New or used villa and how many years of use	                                                                                 | Int |
+ | views |   The number of users who viewed the ad of the villa	                                                                                   | object |
+ | NP |   The location of the villa in the city of Riyadh (North, South, West, East, Central)	                                                                                   | Int |
 
 
 
