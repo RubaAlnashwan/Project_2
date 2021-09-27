@@ -19,7 +19,7 @@ In this project,We used data for villas offered for sale in the city of Riyadh t
 
  |Features|Description                                                                          |  Type  |
  |-------|--------------------------------------------------------------------------------------|--------|
- 
+ |       |
  | Area |   The area of the villa land in square meters	                                  | object |
  | Price |  villa price	                                                                      | object |
  | Direction | The front of the villa, if the villa is east and west, means that it is on two streets 	                                                                                | object | 
